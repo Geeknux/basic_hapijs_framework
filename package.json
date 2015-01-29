@@ -12,6 +12,7 @@
     "arangojs": "^3.0.0",
     "hapi": "^8.1.0",
     "scooter": "^2.0.1",
-    "underscore": "^1.7.0"
+    "underscore": "^1.7.0",
+    "validator": "^3.28.0"
   }
 }
