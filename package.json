@@ -1,0 +1,17 @@
+{
+  "name": "Basic_Hapijs_Framework",
+  "version": "0.0.1",
+  "description": "This is My Personal NodeJS FrameWork Based On HapiJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir M. Mahmoudi",
+  "license": "ISC",
+  "dependencies": {
+    "arangojs": "^3.0.0",
+    "hapi": "^8.1.0",
+    "scooter": "^2.0.1",
+    "underscore": "^1.7.0"
+  }
+}
